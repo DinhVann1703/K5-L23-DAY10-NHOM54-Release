@@ -1,0 +1,168 @@
+{
+  "errors": [
+    {
+      "type": "category_swap",
+      "target": "img_0003"
+    },
+    {
+      "type": "class_swap",
+      "target": "img_0011"
+    },
+    {
+      "type": "duplicate_box",
+      "target": "img_0014"
+    },
+    {
+      "type": "category_swap",
+      "target": "img_0018"
+    },
+    {
+      "type": "duplicate_box",
+      "target": "img_0023"
+    },
+    {
+      "type": "class_swap",
+      "target": "img_0026"
+    },
+    {
+      "type": "class_swap",
+      "target": "img_0034"
+    },
+    {
+      "type": "duplicate_box",
+      "target": "img_0047"
+    },
+    {
+      "type": "class_swap",
+      "target": "img_0052"
+    },
+    {
+      "type": "duplicate_box",
+      "target": "img_0064"
+    },
+    {
+      "type": "bbox_out_of_bounds",
+      "target": "img_0068"
+    },
+    {
+      "type": "class_swap",
+      "target": "img_0076"
+    },
+    {
+      "type": "duplicate_box",
+      "target": "img_0083"
+    },
+    {
+      "type": "invalid_class",
+      "target": "img_0083"
+    },
+    {
+      "type": "class_swap",
+      "target": "img_0085"
+    },
+    {
+      "type": "class_swap",
+      "target": "img_0088"
+    },
+    {
+      "type": "category_swap",
+      "target": "img_0092"
+    },
+    {
+      "type": "class_swap",
+      "target": "img_0101"
+    },
+    {
+      "type": "category_swap",
+      "target": "img_0102"
+    },
+    {
+      "type": "wrong_hash",
+      "target": "img_0107"
+    },
+    {
+      "type": "category_swap",
+      "target": "img_0112"
+    },
+    {
+      "type": "duplicate_box",
+      "target": "img_0112"
+    },
+    {
+      "type": "missing_image",
+      "target": "img_0117"
+    },
+    {
+      "type": "duplicate_box",
+      "target": "img_0128"
+    },
+    {
+      "type": "duplicate_box",
+      "target": "img_0138"
+    },
+    {
+      "type": "class_swap",
+      "target": "img_0152"
+    },
+    {
+      "type": "duplicate_box",
+      "target": "img_0158"
+    },
+    {
+      "type": "missing_box",
+      "target": "img_0159"
+    },
+    {
+      "type": "duplicate_box",
+      "target": "img_0167"
+    },
+    {
+      "type": "class_swap",
+      "target": "img_0189"
+    },
+    {
+      "type": "class_swap",
+      "target": "img_0193"
+    },
+    {
+      "type": "missing_box",
+      "target": "img_0197"
+    },
+    {
+      "type": "category_swap",
+      "target": "img_0212"
+    },
+    {
+      "type": "category_swap",
+      "target": "img_0214"
+    },
+    {
+      "type": "missing_image",
+      "target": "img_0219"
+    },
+    {
+      "type": "class_swap",
+      "target": "img_0228"
+    },
+    {
+      "type": "guideline_mismatch",
+      "target": "img_0228"
+    },
+    {
+      "type": "class_swap",
+      "target": "img_0229"
+    },
+    {
+      "type": "duplicate_box",
+      "target": "img_0234"
+    },
+    {
+      "type": "class_swap",
+      "target": "img_0235"
+    },
+    {
+      "type": "scene_leak",
+      "target": "scene_122"
+    }
+  ]
+}

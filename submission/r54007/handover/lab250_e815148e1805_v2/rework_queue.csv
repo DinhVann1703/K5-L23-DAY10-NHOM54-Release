@@ -1,0 +1,7 @@
+image,type,job_id,annotator,reviewer,reason
+000000007386,bbox_out_of_bounds,J03,A03,Q01,detection_or_file_error
+000000012639,invalid_class,J05,A01,Q02,detection_or_file_error
+000000015956,"bbox_drift,thing_overlap",J07,A04,Q03,detection_or_file_error
+000000020059,invalid_class,J08,A04,Q03,detection_or_file_error
+000000023126,missing_image,J09,A04,Q02,detection_or_file_error
+000000024567,missing_image,J10,A05,Q01,detection_or_file_error

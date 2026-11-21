@@ -1,48 +1,72 @@
 {
-  "errors": [
-    {
-      "type": "bbox_out_of_bounds",
-      "target": "000000007386"
-    },
-    {
-      "type": "guideline_mismatch",
-      "target": "000000012670"
-    },
-    {
-      "type": "invalid_category_id",
-      "target": "000000006460"
-    },
-    {
-      "type": "invalid_class",
-      "target": "000000012639"
-    },
-    {
-      "type": "invalid_class",
-      "target": "000000020059"
-    },
-    {
-      "type": "missing_image",
-      "target": "000000023126"
-    },
-    {
-      "type": "missing_image",
-      "target": "000000024567"
-    },
-    {
-      "type": "scene_leak",
-      "target": "scene_529"
-    },
-    {
-      "type": "thing_overlap",
-      "target": "000000003255"
-    },
-    {
-      "type": "thing_overlap",
-      "target": "000000015956"
-    },
-    {
-      "type": "wrong_hash",
-      "target": "000000017029"
-    }
-  ]
+ "errors": [
+  {
+   "type": "bbox_drift",
+   "target": "000000015956"
+  },
+  {
+   "type": "bbox_out_of_bounds",
+   "target": "000000007386"
+  },
+  {
+   "type": "category_swap",
+   "target": "000000006723"
+  },
+  {
+   "type": "category_swap",
+   "target": "000000009590"
+  },
+  {
+   "type": "category_swap",
+   "target": "000000012280"
+  },
+  {
+   "type": "category_swap",
+   "target": "000000012748"
+  },
+  {
+   "type": "category_swap",
+   "target": "000000018150"
+  },
+  {
+   "type": "guideline_mismatch",
+   "target": "000000012670"
+  },
+  {
+   "type": "invalid_category_id",
+   "target": "000000006460"
+  },
+  {
+   "type": "invalid_class",
+   "target": "000000012639"
+  },
+  {
+   "type": "invalid_class",
+   "target": "000000020059"
+  },
+  {
+   "type": "missing_image",
+   "target": "000000023126"
+  },
+  {
+   "type": "missing_image",
+   "target": "000000024567"
+  },
+  {
+   "type": "scene_leak",
+   "target": "scene_529"
+  },
+  {
+   "type": "thing_overlap",
+   "target": "000000003255"
+  },
+  {
+   "type": "thing_overlap",
+   "target": "000000015956"
+  },
+  {
+   "type": "wrong_hash",
+   "target": "000000017029"
+  }
+ ]
 }

@@ -1,0 +1,2394 @@
+{
+  "candidates": [
+    {
+      "image": "000000000139",
+      "suspect": "instance_merge",
+      "class": "chair",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000000139",
+      "suspect": "instance_merge",
+      "class": "book",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000000139",
+      "suspect": "instance_merge",
+      "class": "book",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000000632",
+      "suspect": "instance_merge",
+      "class": "book",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000000776",
+      "suspect": "instance_merge",
+      "class": "teddy bear",
+      "num_boxes": 3
+    },
+    {
+      "image": "000000000776",
+      "suspect": "instance_merge",
+      "class": "teddy bear",
+      "num_boxes": 3
+    },
+    {
+      "image": "000000000776",
+      "suspect": "instance_merge",
+      "class": "teddy bear",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000000802",
+      "suspect": "missing_box",
+      "class": "refrigerator",
+      "area": 52336.0
+    },
+    {
+      "image": "000000000885",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000000885",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000000885",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000001000",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 3
+    },
+    {
+      "image": "000000001000",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000001000",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 3
+    },
+    {
+      "image": "000000001000",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 3
+    },
+    {
+      "image": "000000001000",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000001000",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 3
+    },
+    {
+      "image": "000000001000",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000001296",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000001353",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000001353",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000001353",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 5
+    },
+    {
+      "image": "000000001353",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000001353",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 4
+    },
+    {
+      "image": "000000001425",
+      "suspect": "missing_box",
+      "class": "bowl",
+      "area": 24768.0
+    },
+    {
+      "image": "000000001532",
+      "suspect": "instance_merge",
+      "class": "car",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000001532",
+      "suspect": "instance_merge",
+      "class": "car",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000001584",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000001584",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000001584",
+      "suspect": "instance_merge",
+      "class": "bus",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000002153",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 3
+    },
+    {
+      "image": "000000002153",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000002153",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000002157",
+      "suspect": "instance_merge",
+      "class": "wine glass",
+      "num_boxes": 4
+    },
+    {
+      "image": "000000002157",
+      "suspect": "instance_merge",
+      "class": "wine glass",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000002157",
+      "suspect": "instance_merge",
+      "class": "wine glass",
+      "num_boxes": 3
+    },
+    {
+      "image": "000000002157",
+      "suspect": "instance_merge",
+      "class": "wine glass",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000002157",
+      "suspect": "instance_merge",
+      "class": "wine glass",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000002157",
+      "suspect": "instance_merge",
+      "class": "wine glass",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000002157",
+      "suspect": "instance_merge",
+      "class": "knife",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000002157",
+      "suspect": "instance_merge",
+      "class": "knife",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000002299",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000002299",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000002299",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000002299",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000002299",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000002299",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000002431",
+      "suspect": "missing_box",
+      "class": "person",
+      "area": 9177.0
+    },
+    {
+      "image": "000000002431",
+      "suspect": "missing_box",
+      "class": "cup",
+      "area": 17761.0
+    },
+    {
+      "image": "000000002685",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 4
+    },
+    {
+      "image": "000000002685",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 3
+    },
+    {
+      "image": "000000002685",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 4
+    },
+    {
+      "image": "000000002685",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 3
+    },
+    {
+      "image": "000000002685",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 3
+    },
+    {
+      "image": "000000002685",
+      "suspect": "instance_merge",
+      "class": "bottle",
+      "num_boxes": 4
+    },
+    {
+      "image": "000000002685",
+      "suspect": "instance_merge",
+      "class": "bottle",
+      "num_boxes": 6
+    },
+    {
+      "image": "000000002685",
+      "suspect": "instance_merge",
+      "class": "bottle",
+      "num_boxes": 4
+    },
+    {
+      "image": "000000002685",
+      "suspect": "instance_merge",
+      "class": "bottle",
+      "num_boxes": 3
+    },
+    {
+      "image": "000000002685",
+      "suspect": "instance_merge",
+      "class": "bottle",
+      "num_boxes": 5
+    },
+    {
+      "image": "000000002685",
+      "suspect": "instance_merge",
+      "class": "bottle",
+      "num_boxes": 5
+    },
+    {
+      "image": "000000002685",
+      "suspect": "instance_merge",
+      "class": "bottle",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000003156",
+      "suspect": "missing_box",
+      "class": "toilet",
+      "area": 36542.0
+    },
+    {
+      "image": "000000003255",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000003255",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000003255",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 3
+    },
+    {
+      "image": "000000003255",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000003501",
+      "suspect": "instance_merge",
+      "class": "broccoli",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000003661",
+      "suspect": "missing_box",
+      "class": "banana",
+      "area": 132891.0
+    },
+    {
+      "image": "000000003934",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000003934",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000003934",
+      "suspect": "missing_box",
+      "class": "couch",
+      "area": 10994.0
+    },
+    {
+      "image": "000000004134",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 3
+    },
+    {
+      "image": "000000004134",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000004134",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000004134",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 4
+    },
+    {
+      "image": "000000004134",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 3
+    },
+    {
+      "image": "000000004134",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 5
+    },
+    {
+      "image": "000000004134",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000004134",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 3
+    },
+    {
+      "image": "000000004134",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000004134",
+      "suspect": "instance_merge",
+      "class": "wine glass",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000004134",
+      "suspect": "instance_merge",
+      "class": "wine glass",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000004134",
+      "suspect": "instance_merge",
+      "class": "chair",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000004495",
+      "suspect": "missing_box",
+      "class": "couch",
+      "area": 39928.0
+    },
+    {
+      "image": "000000005001",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000005001",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 3
+    },
+    {
+      "image": "000000005001",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000005001",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 3
+    },
+    {
+      "image": "000000005001",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 3
+    },
+    {
+      "image": "000000005001",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000005001",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000005001",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 3
+    },
+    {
+      "image": "000000005001",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000005001",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000005001",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000005001",
+      "suspect": "missing_box",
+      "class": "person",
+      "area": 13830.0
+    },
+    {
+      "image": "000000005037",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000005037",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000005037",
+      "suspect": "instance_merge",
+      "class": "car",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000005193",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000005193",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000005193",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 3
+    },
+    {
+      "image": "000000005193",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000005193",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000005193",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000005477",
+      "suspect": "instance_merge",
+      "class": "airplane",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000005586",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000005992",
+      "suspect": "instance_merge",
+      "class": "sheep",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000005992",
+      "suspect": "instance_merge",
+      "class": "sheep",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000005992",
+      "suspect": "instance_merge",
+      "class": "sheep",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000005992",
+      "suspect": "instance_merge",
+      "class": "sheep",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000006040",
+      "suspect": "bbox_drift",
+      "class": "person",
+      "iou": 0.295,
+      "cov": 0.464
+    },
+    {
+      "image": "000000006040",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000006040",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000006040",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000006471",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000006471",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 3
+    },
+    {
+      "image": "000000006471",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000006471",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000006723",
+      "suspect": "class_swap_or_category_swap",
+      "det_class": "truck",
+      "pan_class": "bus",
+      "iou": 0.912
+    },
+    {
+      "image": "000000006763",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000006763",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000006763",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000006771",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000006771",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 3
+    },
+    {
+      "image": "000000006771",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000006771",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000006771",
+      "suspect": "missing_box",
+      "class": "person",
+      "area": 5877.0
+    },
+    {
+      "image": "000000006771",
+      "suspect": "missing_box",
+      "class": "person",
+      "area": 17309.0
+    },
+    {
+      "image": "000000006954",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000006954",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000006954",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000007108",
+      "suspect": "instance_merge",
+      "class": "elephant",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000007108",
+      "suspect": "instance_merge",
+      "class": "elephant",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000007108",
+      "suspect": "instance_merge",
+      "class": "elephant",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000007108",
+      "suspect": "instance_merge",
+      "class": "elephant",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000007386",
+      "suspect": "missing_box",
+      "class": "motorcycle",
+      "area": 89091.0
+    },
+    {
+      "image": "000000007574",
+      "suspect": "instance_merge",
+      "class": "bottle",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000007574",
+      "suspect": "instance_merge",
+      "class": "wine glass",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000007574",
+      "suspect": "instance_merge",
+      "class": "wine glass",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000007795",
+      "suspect": "instance_merge",
+      "class": "bed",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000007816",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000007816",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000007816",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000007816",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000007816",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 3
+    },
+    {
+      "image": "000000007816",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000007816",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000007818",
+      "suspect": "instance_merge",
+      "class": "wine glass",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000008021",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000008021",
+      "suspect": "missing_box",
+      "class": "person",
+      "area": 28481.0
+    },
+    {
+      "image": "000000008277",
+      "suspect": "instance_merge",
+      "class": "broccoli",
+      "num_boxes": 3
+    },
+    {
+      "image": "000000008277",
+      "suspect": "instance_merge",
+      "class": "broccoli",
+      "num_boxes": 3
+    },
+    {
+      "image": "000000008277",
+      "suspect": "instance_merge",
+      "class": "broccoli",
+      "num_boxes": 3
+    },
+    {
+      "image": "000000008277",
+      "suspect": "instance_merge",
+      "class": "broccoli",
+      "num_boxes": 3
+    },
+    {
+      "image": "000000008277",
+      "suspect": "instance_merge",
+      "class": "broccoli",
+      "num_boxes": 3
+    },
+    {
+      "image": "000000008277",
+      "suspect": "instance_merge",
+      "class": "broccoli",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000008532",
+      "suspect": "missing_box",
+      "class": "tie",
+      "area": 2993.0
+    },
+    {
+      "image": "000000008690",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000008690",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000008690",
+      "suspect": "missing_box",
+      "class": "sheep",
+      "area": 30153.0
+    },
+    {
+      "image": "000000008844",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000008844",
+      "suspect": "instance_merge",
+      "class": "banana",
+      "num_boxes": 3
+    },
+    {
+      "image": "000000009378",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 3
+    },
+    {
+      "image": "000000009378",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000009378",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 3
+    },
+    {
+      "image": "000000009378",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000009400",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000009400",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000009400",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000009400",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000009400",
+      "suspect": "instance_merge",
+      "class": "cup",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000009400",
+      "suspect": "instance_merge",
+      "class": "laptop",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000009483",
+      "suspect": "missing_box",
+      "class": "person",
+      "area": 36864.0
+    },
+    {
+      "image": "000000009590",
+      "suspect": "class_swap_or_category_swap",
+      "det_class": "cup",
+      "pan_class": "bowl",
+      "iou": 0.92
+    },
+    {
+      "image": "000000009590",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000009590",
+      "suspect": "instance_merge",
+      "class": "cup",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000009590",
+      "suspect": "missing_box",
+      "class": "person",
+      "area": 10599.0
+    },
+    {
+      "image": "000000009891",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000009891",
+      "suspect": "instance_merge",
+      "class": "car",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000009891",
+      "suspect": "instance_merge",
+      "class": "car",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000009891",
+      "suspect": "missing_box",
+      "class": "car",
+      "area": 50907.0
+    },
+    {
+      "image": "000000009914",
+      "suspect": "class_swap_or_category_swap",
+      "det_class": "hot dog",
+      "pan_class": "sandwich",
+      "iou": 0.815
+    },
+    {
+      "image": "000000010092",
+      "suspect": "instance_merge",
+      "class": "chair",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000010363",
+      "suspect": "missing_box",
+      "class": "car",
+      "area": 120766.0
+    },
+    {
+      "image": "000000010583",
+      "suspect": "instance_merge",
+      "class": "sandwich",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000010583",
+      "suspect": "missing_box",
+      "class": "knife",
+      "area": 5160.0
+    },
+    {
+      "image": "000000010707",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000010707",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 3
+    },
+    {
+      "image": "000000010707",
+      "suspect": "instance_merge",
+      "class": "cup",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000011051",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000011051",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000011197",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000011511",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000011699",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000012062",
+      "suspect": "instance_merge",
+      "class": "sheep",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000012120",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000012120",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000012120",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000012280",
+      "suspect": "class_swap_or_category_swap",
+      "det_class": "suitcase",
+      "pan_class": "handbag",
+      "iou": 0.986
+    },
+    {
+      "image": "000000012576",
+      "suspect": "missing_box",
+      "class": "pizza",
+      "area": 3912.0
+    },
+    {
+      "image": "000000012639",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 3
+    },
+    {
+      "image": "000000012639",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000012639",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000012639",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000012670",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000012670",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000012670",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000012670",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 4
+    },
+    {
+      "image": "000000012670",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000012670",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000012670",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000012670",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 3
+    },
+    {
+      "image": "000000012670",
+      "suspect": "missing_box",
+      "class": "backpack",
+      "area": 1677.0
+    },
+    {
+      "image": "000000012748",
+      "suspect": "class_swap_or_category_swap",
+      "det_class": "cow",
+      "pan_class": "horse",
+      "iou": 0.99
+    },
+    {
+      "image": "000000013291",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000013348",
+      "suspect": "instance_merge",
+      "class": "airplane",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000013546",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000013659",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000013659",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000013659",
+      "suspect": "instance_merge",
+      "class": "chair",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000013659",
+      "suspect": "instance_merge",
+      "class": "chair",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000013659",
+      "suspect": "missing_box",
+      "class": "dining table",
+      "area": 1519.0
+    },
+    {
+      "image": "000000013729",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000013729",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000013729",
+      "suspect": "missing_box",
+      "class": "dining table",
+      "area": 11678.0
+    },
+    {
+      "image": "000000013923",
+      "suspect": "instance_merge",
+      "class": "bottle",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000013923",
+      "suspect": "instance_merge",
+      "class": "chair",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000013923",
+      "suspect": "instance_merge",
+      "class": "chair",
+      "num_boxes": 3
+    },
+    {
+      "image": "000000013923",
+      "suspect": "instance_merge",
+      "class": "chair",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000013923",
+      "suspect": "instance_merge",
+      "class": "chair",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000014038",
+      "suspect": "bbox_drift",
+      "class": "book",
+      "iou": 0.416,
+      "cov": 0.901
+    },
+    {
+      "image": "000000014038",
+      "suspect": "instance_merge",
+      "class": "book",
+      "num_boxes": 3
+    },
+    {
+      "image": "000000014038",
+      "suspect": "instance_merge",
+      "class": "book",
+      "num_boxes": 4
+    },
+    {
+      "image": "000000014038",
+      "suspect": "instance_merge",
+      "class": "book",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000014038",
+      "suspect": "instance_merge",
+      "class": "book",
+      "num_boxes": 4
+    },
+    {
+      "image": "000000014038",
+      "suspect": "missing_box",
+      "class": "cell phone",
+      "area": 466.0
+    },
+    {
+      "image": "000000014380",
+      "suspect": "missing_box",
+      "class": "train",
+      "area": 20590.0
+    },
+    {
+      "image": "000000014439",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000014439",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000014439",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000014439",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000014439",
+      "suspect": "instance_merge",
+      "class": "backpack",
+      "num_boxes": 3
+    },
+    {
+      "image": "000000014473",
+      "suspect": "missing_box",
+      "class": "train",
+      "area": 43223.0
+    },
+    {
+      "image": "000000015079",
+      "suspect": "instance_merge",
+      "class": "sandwich",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000015079",
+      "suspect": "instance_merge",
+      "class": "sandwich",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000015254",
+      "suspect": "instance_merge",
+      "class": "carrot",
+      "num_boxes": 3
+    },
+    {
+      "image": "000000015254",
+      "suspect": "instance_merge",
+      "class": "carrot",
+      "num_boxes": 3
+    },
+    {
+      "image": "000000015254",
+      "suspect": "instance_merge",
+      "class": "carrot",
+      "num_boxes": 3
+    },
+    {
+      "image": "000000015254",
+      "suspect": "instance_merge",
+      "class": "carrot",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000015335",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 4
+    },
+    {
+      "image": "000000015335",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 3
+    },
+    {
+      "image": "000000015335",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 4
+    },
+    {
+      "image": "000000015335",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 3
+    },
+    {
+      "image": "000000015335",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000015335",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000015335",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 5
+    },
+    {
+      "image": "000000015335",
+      "suspect": "missing_box",
+      "class": "bowl",
+      "area": 4290.0
+    },
+    {
+      "image": "000000015517",
+      "suspect": "instance_merge",
+      "class": "bus",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000015517",
+      "suspect": "instance_merge",
+      "class": "bus",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000015517",
+      "suspect": "instance_merge",
+      "class": "bus",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000015517",
+      "suspect": "instance_merge",
+      "class": "bus",
+      "num_boxes": 3
+    },
+    {
+      "image": "000000015751",
+      "suspect": "instance_merge",
+      "class": "bird",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000015751",
+      "suspect": "instance_merge",
+      "class": "bird",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000015956",
+      "suspect": "bbox_drift",
+      "class": "person",
+      "iou": 0.156,
+      "cov": 0.989
+    },
+    {
+      "image": "000000016010",
+      "suspect": "instance_merge",
+      "class": "cow",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000016010",
+      "suspect": "instance_merge",
+      "class": "zebra",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000016010",
+      "suspect": "instance_merge",
+      "class": "zebra",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000016228",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000016228",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000016228",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000016228",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 3
+    },
+    {
+      "image": "000000016228",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000016228",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000016228",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000016249",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000016249",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000016249",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000016249",
+      "suspect": "instance_merge",
+      "class": "bench",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000016451",
+      "suspect": "missing_box",
+      "class": "handbag",
+      "area": 3737.0
+    },
+    {
+      "image": "000000016598",
+      "suspect": "missing_box",
+      "class": "tie",
+      "area": 22539.0
+    },
+    {
+      "image": "000000017178",
+      "suspect": "missing_box",
+      "class": "car",
+      "area": 46998.0
+    },
+    {
+      "image": "000000017182",
+      "suspect": "instance_merge",
+      "class": "book",
+      "num_boxes": 5
+    },
+    {
+      "image": "000000017182",
+      "suspect": "instance_merge",
+      "class": "book",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000017182",
+      "suspect": "instance_merge",
+      "class": "book",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000017182",
+      "suspect": "instance_merge",
+      "class": "book",
+      "num_boxes": 4
+    },
+    {
+      "image": "000000017182",
+      "suspect": "instance_merge",
+      "class": "book",
+      "num_boxes": 4
+    },
+    {
+      "image": "000000017379",
+      "suspect": "missing_box",
+      "class": "sink",
+      "area": 6830.0
+    },
+    {
+      "image": "000000017627",
+      "suspect": "instance_merge",
+      "class": "car",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000017627",
+      "suspect": "instance_merge",
+      "class": "car",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000017627",
+      "suspect": "instance_merge",
+      "class": "car",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000017627",
+      "suspect": "instance_merge",
+      "class": "car",
+      "num_boxes": 3
+    },
+    {
+      "image": "000000017627",
+      "suspect": "instance_merge",
+      "class": "car",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000017627",
+      "suspect": "instance_merge",
+      "class": "car",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000017627",
+      "suspect": "instance_merge",
+      "class": "car",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000017627",
+      "suspect": "missing_box",
+      "class": "car",
+      "area": 1171.0
+    },
+    {
+      "image": "000000017714",
+      "suspect": "bbox_drift",
+      "class": "cup",
+      "iou": 0.317,
+      "cov": 0.602
+    },
+    {
+      "image": "000000017714",
+      "suspect": "class_swap_or_category_swap",
+      "det_class": "cup",
+      "pan_class": "spoon",
+      "iou": 0.2
+    },
+    {
+      "image": "000000017714",
+      "suspect": "instance_merge",
+      "class": "cup",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000017714",
+      "suspect": "instance_merge",
+      "class": "fork",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000017714",
+      "suspect": "instance_merge",
+      "class": "fork",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000017714",
+      "suspect": "instance_merge",
+      "class": "banana",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000017905",
+      "suspect": "missing_box",
+      "class": "fire hydrant",
+      "area": 2266.0
+    },
+    {
+      "image": "000000017959",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000017959",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000017959",
+      "suspect": "instance_merge",
+      "class": "kite",
+      "num_boxes": 4
+    },
+    {
+      "image": "000000017959",
+      "suspect": "instance_merge",
+      "class": "kite",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000017959",
+      "suspect": "instance_merge",
+      "class": "kite",
+      "num_boxes": 4
+    },
+    {
+      "image": "000000017959",
+      "suspect": "instance_merge",
+      "class": "kite",
+      "num_boxes": 3
+    },
+    {
+      "image": "000000017959",
+      "suspect": "instance_merge",
+      "class": "kite",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000017959",
+      "suspect": "instance_merge",
+      "class": "kite",
+      "num_boxes": 4
+    },
+    {
+      "image": "000000017959",
+      "suspect": "instance_merge",
+      "class": "kite",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000017959",
+      "suspect": "instance_merge",
+      "class": "kite",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000018150",
+      "suspect": "class_swap_or_category_swap",
+      "det_class": "couch",
+      "pan_class": "carrot",
+      "iou": 0.996
+    },
+    {
+      "image": "000000018150",
+      "suspect": "missing_box",
+      "class": "person",
+      "area": 86580.0
+    },
+    {
+      "image": "000000018150",
+      "suspect": "missing_box",
+      "class": "pizza",
+      "area": 786.0
+    },
+    {
+      "image": "000000018380",
+      "suspect": "class_swap_or_category_swap",
+      "det_class": "cup",
+      "pan_class": "wine glass",
+      "iou": 0.867
+    },
+    {
+      "image": "000000018380",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000018380",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000018380",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000018380",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000018380",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000018380",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 5
+    },
+    {
+      "image": "000000018380",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000018380",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000018380",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000018380",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 3
+    },
+    {
+      "image": "000000018380",
+      "suspect": "instance_merge",
+      "class": "wine glass",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000018380",
+      "suspect": "instance_merge",
+      "class": "wine glass",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000018380",
+      "suspect": "instance_merge",
+      "class": "cup",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000018380",
+      "suspect": "missing_box",
+      "class": "person",
+      "area": 29998.0
+    },
+    {
+      "image": "000000018491",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000018491",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000018491",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000018491",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000018575",
+      "suspect": "instance_merge",
+      "class": "bottle",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000018837",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000019109",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000019109",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000019109",
+      "suspect": "instance_merge",
+      "class": "motorcycle",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000019109",
+      "suspect": "instance_merge",
+      "class": "motorcycle",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000019109",
+      "suspect": "instance_merge",
+      "class": "motorcycle",
+      "num_boxes": 3
+    },
+    {
+      "image": "000000019109",
+      "suspect": "instance_merge",
+      "class": "motorcycle",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000019109",
+      "suspect": "instance_merge",
+      "class": "motorcycle",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000019109",
+      "suspect": "instance_merge",
+      "class": "motorcycle",
+      "num_boxes": 3
+    },
+    {
+      "image": "000000019109",
+      "suspect": "instance_merge",
+      "class": "motorcycle",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000019109",
+      "suspect": "instance_merge",
+      "class": "motorcycle",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000019109",
+      "suspect": "instance_merge",
+      "class": "motorcycle",
+      "num_boxes": 3
+    },
+    {
+      "image": "000000019109",
+      "suspect": "instance_merge",
+      "class": "motorcycle",
+      "num_boxes": 3
+    },
+    {
+      "image": "000000019109",
+      "suspect": "instance_merge",
+      "class": "motorcycle",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000019109",
+      "suspect": "instance_merge",
+      "class": "motorcycle",
+      "num_boxes": 3
+    },
+    {
+      "image": "000000019402",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000019402",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000019432",
+      "suspect": "instance_merge",
+      "class": "chair",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000019432",
+      "suspect": "instance_merge",
+      "class": "chair",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000019786",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000020059",
+      "suspect": "missing_box",
+      "class": "zebra",
+      "area": 6925.0
+    },
+    {
+      "image": "000000020553",
+      "suspect": "class_swap_or_category_swap",
+      "det_class": "bottle",
+      "pan_class": "vase",
+      "iou": 0.771
+    },
+    {
+      "image": "000000020553",
+      "suspect": "instance_merge",
+      "class": "teddy bear",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000020571",
+      "suspect": "class_swap_or_category_swap",
+      "det_class": "handbag",
+      "pan_class": "person",
+      "iou": 0.43
+    },
+    {
+      "image": "000000020571",
+      "suspect": "instance_merge",
+      "class": "boat",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000020571",
+      "suspect": "instance_merge",
+      "class": "boat",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000020992",
+      "suspect": "missing_box",
+      "class": "person",
+      "area": 94870.0
+    },
+    {
+      "image": "000000021503",
+      "suspect": "instance_merge",
+      "class": "sandwich",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000021503",
+      "suspect": "instance_merge",
+      "class": "sandwich",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000021503",
+      "suspect": "instance_merge",
+      "class": "sandwich",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000021503",
+      "suspect": "missing_box",
+      "class": "mouse",
+      "area": 13377.0
+    },
+    {
+      "image": "000000021503",
+      "suspect": "missing_box",
+      "class": "keyboard",
+      "area": 13826.0
+    },
+    {
+      "image": "000000021839",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000021879",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000022371",
+      "suspect": "missing_box",
+      "class": "book",
+      "area": 607.0
+    },
+    {
+      "image": "000000022589",
+      "suspect": "instance_merge",
+      "class": "sheep",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000023034",
+      "suspect": "missing_box",
+      "class": "person",
+      "area": 62285.0
+    },
+    {
+      "image": "000000023781",
+      "suspect": "instance_merge",
+      "class": "carrot",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000023781",
+      "suspect": "instance_merge",
+      "class": "carrot",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000023781",
+      "suspect": "instance_merge",
+      "class": "carrot",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000023781",
+      "suspect": "instance_merge",
+      "class": "carrot",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000023899",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000023899",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000023937",
+      "suspect": "instance_merge",
+      "class": "cow",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000023937",
+      "suspect": "instance_merge",
+      "class": "cow",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000024021",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000024021",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 3
+    },
+    {
+      "image": "000000024021",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000024021",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000024021",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000024243",
+      "suspect": "instance_merge",
+      "class": "cup",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000024243",
+      "suspect": "instance_merge",
+      "class": "cup",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000024610",
+      "suspect": "instance_merge",
+      "class": "book",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000024919",
+      "suspect": "instance_merge",
+      "class": "elephant",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000025057",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000025096",
+      "suspect": "missing_box",
+      "class": "chair",
+      "area": 690.0
+    },
+    {
+      "image": "000000025386",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000025386",
+      "suspect": "instance_merge",
+      "class": "person",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000025394",
+      "suspect": "instance_merge",
+      "class": "bottle",
+      "num_boxes": 2
+    },
+    {
+      "image": "000000025394",
+      "suspect": "instance_merge",
+      "class": "bottle",
+      "num_boxes": 2
+    }
+  ]
+}

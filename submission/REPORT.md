@@ -1,6 +1,6 @@
 # Báo cáo nhóm <<XX>>
 
-##1. Số liệu luyện tập
+#1. Số liệu luyện tập
 
 Seed luyện tập: 54007.
 
@@ -68,7 +68,7 @@ Kết quả cho thấy vẫn tồn tại nhiều ứng viên tự nhiên ngay c�
 
 Lô sạch được dùng để đo nhiễu tự nhiên, không dùng để xác định trực tiếp nhãn đúng của lô luyện tập vì hai lô sử dụng các ảnh khác nhau.
 
-##2. Vì sao báo hết ứng viên làm F1 giảm?
+#2. Vì sao báo hết ứng viên làm F1 giảm?
 
 Ứng viên do validator tạo ra chỉ là dấu hiệu nghi vấn, không phải lỗi đã được xác nhận.
 
@@ -78,7 +78,7 @@ Nếu đưa toàn bộ ứng viên vào errors.json, các ứng viên không ph�
 
 Vì vậy, chỉ những lỗi semantic được mở ảnh kiểm tra và xác nhận mới được đưa vào danh sách lỗi cuối cùng.
 
-##3. Quyết định và lineage
+#3. Quyết định và lineage
 
 Kiểm soát chất lượng v1
 

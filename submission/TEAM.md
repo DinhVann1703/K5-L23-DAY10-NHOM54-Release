@@ -1,6 +1,6 @@
 # Nhóm 54
 
-- Seed luyện tập: 5407
+- Seed luyện tập: 54007
 - Repo: https://github.com/DinhVann1703/K5-L23-DAY10-NHOM54-Release
 
 | Họ và tên | MSHV | Tài khoản GitHub | Phần chính |
